@@ -739,7 +739,7 @@ ul li{
 
 /* About section  */
 #about {
-	padding: 300px;
+	padding: 20rem 0 10rem 0;
 }
 #about .wrapper {
 	display: flex;
